@@ -11,6 +11,10 @@ class ToDo {
 
   static List<ToDo> todoList() {
     return [
+      ToDo(
+        id: '09',
+        todoText: '',
+      ),
       ToDo(id: '01', todoText: 'Morning Excercise', isDone: true),
       ToDo(id: '02', todoText: 'Buy Groceries', isDone: true),
       ToDo(
@@ -23,19 +27,15 @@ class ToDo {
       ),
       ToDo(
         id: '05',
-        todoText: 'Work on mobile apps for 2 hour',
+        todoText: 'Going To The Gym',
       ),
       ToDo(
         id: '06',
-        todoText: 'Dinner with Jenny',
+        todoText: 'Dinner with Alex',
       ),
       ToDo(
         id: '07',
-        todoText: 'Example ToDo',
-      ),
-      ToDo(
-        id: '08',
-        todoText: 'Example ToDo',
+        todoText: 'Read a book',
       ),
     ];
   }
