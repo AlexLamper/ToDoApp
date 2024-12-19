@@ -10,11 +10,6 @@ A simple To-Do mobile application made with Flutter. This app allows users to cr
 - **Mark tasks as completed**: Toggle tasks between active and completed states.
 - **User-friendly UI**: A clean and intuitive interface for ease of use.
 
-## Screenshots
-
-![Home Screen](screenshots/home.png)
-![Add Task Screen](screenshots/add_task.png)
-
 ## Installation
 
 To get started with **ToDoApp**, follow these steps:
